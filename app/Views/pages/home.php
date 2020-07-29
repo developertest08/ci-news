@@ -1,3 +1,3 @@
 <?php 
-echo "Home page - welcome to ci 4";
+echo "Home page - welcome to code igniter 4";
 ?>
